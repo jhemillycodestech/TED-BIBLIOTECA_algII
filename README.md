@@ -20,7 +20,7 @@ permitindo localizar obras com eficiência, filtrar registros específicos e org
 ##  Como Executar o Projeto
 
 ### Pré-requisitos
-Certifique-se de ter instalado em sua máquina:
+ Certifique-se de ter instalado em sua máquina:
 * Git
 * [Compilador ou Interpretador — Ex: Python 3.10+ / GCC / JDK 17]
 
