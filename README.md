@@ -17,6 +17,10 @@ permitindo localizar obras com eficiência, filtrar registros específicos e org
 * **Estruturas/Bibliotecas:** 
 * **Versionamento:** Git e GitHub
 
+## Documentação e Evidências
+* **Descrição completa do projeto (PDF):** disponível em [`docs/`](docs/)
+* **Prints das funcionalidades:** disponíveis na pasta [`screenshots/`](screenshots/)
+
 ##  Como Executar o Projeto
 
 ### Pré-requisitos
