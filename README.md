@@ -12,7 +12,7 @@ permitindo localizar obras com eficiência, filtrar registros específicos e org
 * ** Controle de Devoluções:** Registro e atualização de entrada de livros devolvidos, recompondo automaticamente o saldo em estoque.
 * ** Integrantes:** Exibição das informações da equipe responsável pelo desenvolvimento do sistema diretamente na interface/menu da aplicação.
 
-##  Tecnologias Utilizadas
+##  Tecnologias que foram utilizadas
 * **Linguagem: C#** 
 * **Estruturas/Bibliotecas:** 
 * **Versionamento:** Git e GitHub
