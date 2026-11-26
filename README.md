@@ -88,7 +88,7 @@ BibliotecaTED/
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/[seu-usuario]/[nome-do-repositorio].git
+git clone https://github.com/jhemillycodestech/TED-BIBLIOTECA_algII.git
 
 # 2. Acesse a pasta do projeto
 cd TED-BIBLIOTECA_algII
