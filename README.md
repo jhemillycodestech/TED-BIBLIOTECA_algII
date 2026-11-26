@@ -91,7 +91,7 @@ BibliotecaTED/
 git clone https://github.com/[seu-usuario]/[nome-do-repositorio].git
 
 # 2. Acesse a pasta do projeto
-cd [nome-do-repositorio]
+cd TED-BIBLIOTECA_algII
 
 # 3. Execute
 dotnet run
