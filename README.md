@@ -55,7 +55,7 @@ Trabalho avaliativo cujo objetivo é aplicar, na prática, algoritmos clássicos
 | Ordenação | Insertion Sort | Livros, devoluções e integrantes |
 | Seleção | Maior / menor valor (varredura linear) | Maior e menor estoque; devolução de prazo mais próximo |
 
-> Os algoritmos de ordenação são genéricos (`List<T>` com `Comparison<T>`), então a mesma implementação serve para as três listas.
+> Os algoritmos de ordenação são (`List<T>` com `Comparison<T>`), então a mesma implementação serve para as três listas.
 
 ## 𖣠 Tecnologias 𖣠
 
