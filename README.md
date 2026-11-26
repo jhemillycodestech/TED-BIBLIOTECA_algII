@@ -14,7 +14,7 @@ Aplicação de console em **C#** para gerenciar livros em estoque, devoluções 
 **Professora:** [ROSANGELA SILVA]
 **Instituição:** [UNISAPIENS]
 
-## 📖 Sobre o Projeto
+## Sobre o Projeto
 
 Trabalho avaliativo cujo objetivo é aplicar, na prática, algoritmos clássicos sobre uma estrutura de dados linear. O sistema simula uma biblioteca em que é possível cadastrar livros, registrar devoluções e gerenciar integrantes, localizando, ordenando e selecionando registros por diferentes critérios.
 
