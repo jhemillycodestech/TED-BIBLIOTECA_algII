@@ -301,19 +301,22 @@ namespace Interfaxe
             {
                 Algoritmos.BubbleSort(livros, (a, b) =>
                     string.Compare(a.Titulo, b.Titulo, StringComparison.OrdinalIgnoreCase));
-                Console.WriteLine("Livros ordenados com Bubble Sort!");
+                Console.WriteLine("Livros ordenados com Bubble Sort!\n");
+                foreach (Livro livro in livros)
+                    livro.Exibir();
             }
             else if (opcao == "2")
             {
                 Algoritmos.InsertionSort(livros, (a, b) =>
                     string.Compare(a.Titulo, b.Titulo, StringComparison.OrdinalIgnoreCase));
-                Console.WriteLine("Livros ordenados com Insertion Sort!");
+                Console.WriteLine("Livros ordenados com Insertion Sort!\n");
+                foreach (Livro livro in livros)
+                    livro.Exibir();
             }
             else
             {
                 Console.WriteLine("Opção inválida.");
             }
-
             Pausar();
         }
 
@@ -505,16 +508,19 @@ namespace Interfaxe
             Console.Write("\nEscolha: ");
 
             string opcao = Console.ReadLine() ?? "";
-
             if (opcao == "1")
             {
                 Algoritmos.BubbleSort(devolucoes, (a, b) => a.Prazo.CompareTo(b.Prazo));
-                Console.WriteLine("Devoluções ordenadas com Bubble Sort!");
+                Console.WriteLine("Devoluções ordenadas com Bubble Sort!\n");
+                foreach (Devolucao devolucao in devolucoes)
+                    devolucao.Exibir();
             }
             else if (opcao == "2")
             {
                 Algoritmos.InsertionSort(devolucoes, (a, b) => a.Prazo.CompareTo(b.Prazo));
-                Console.WriteLine("Devoluções ordenadas com Insertion Sort!");
+                Console.WriteLine("Devoluções ordenadas com Insertion Sort!\n");
+                foreach (Devolucao devolucao in devolucoes)
+                    devolucao.Exibir();
             }
             else
             {
@@ -690,13 +696,17 @@ namespace Interfaxe
             {
                 Algoritmos.BubbleSort(integrantes, (a, b) =>
                     string.Compare(a.Nome, b.Nome, StringComparison.OrdinalIgnoreCase));
-                Console.WriteLine("Integrantes ordenados com Bubble Sort!");
+                Console.WriteLine("Integrantes ordenados com Bubble Sort!\n");
+                foreach (Integrante integrante in integrantes)
+                    integrante.Exibir();
             }
             else if (opcao == "2")
             {
                 Algoritmos.InsertionSort(integrantes, (a, b) =>
                     string.Compare(a.Nome, b.Nome, StringComparison.OrdinalIgnoreCase));
-                Console.WriteLine("Integrantes ordenados com Insertion Sort!");
+                Console.WriteLine("Integrantes ordenados com Insertion Sort!\n");
+                foreach (Integrante integrante in integrantes)
+                    integrante.Exibir();
             }
             else
             {
