@@ -112,7 +112,7 @@ dotnet run
 ![Busca binária](screenshots/busca-binaria.png)
 
 **Validação de entrada (código inválido)**
-![Validação](cadastro-livro.png)
+![Validação](screenshots/cadastro-livro.png)
 
 ## Documentação
 
