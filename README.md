@@ -106,13 +106,13 @@ dotnet run
 ## Evidências de execução do código
 
 **Menu principal**
-![Menu principal]()
+![Menu principal](screenshots/cadastro-livro.png)
 
 **Busca binária de livro**
-![Busca binária](         )
+![Busca binária](screenshots/busca-binaria.png)
 
 **Validação de entrada (código inválido)**
-![Validação])
+![Validação](cadastro-livro.png)
 
 ## Documentação
 
